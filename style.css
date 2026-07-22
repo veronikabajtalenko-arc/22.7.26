@@ -25,12 +25,18 @@ img {
     height: 300px;
     margin: 20px;
     padding: 10px;
-    border: 2px #4C2B12;
-    border-radius: 10px;
+    border: 7px #4C2B12;
+    border-radius: 40px;
 }
 p{
     color: #815737;
 }
 h2{
     color: #5f3b1f;
+}
+
+div{
+    background: #fff4de;
+    border: #5f3b1f;
+    border-radius: 20%;
 }
